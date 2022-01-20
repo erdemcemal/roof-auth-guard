@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lXl6IzWDXtgpedscRTxGaFXFqJfQWjzsb1XLYeKfBtA=",
+  "Source": "Roof.ClientAPI",
+  "BasePath": "_content/Roof.ClientAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

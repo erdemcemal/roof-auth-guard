@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\cerdem\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\cerdem\\.nuget\\packages"
+    ]
+  }
+}

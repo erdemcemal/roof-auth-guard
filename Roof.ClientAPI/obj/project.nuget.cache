@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "KuMcRxbvrFK8sqswYjmOhviscliiEU6TT7+t3OKNGjpOF5hXNsQizW9+vGS+OYG0RGU8Zc2sDUjr/sbaEi4stw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cerdem\\RiderProjects\\Roof\\Roof.ClientAPI\\Roof.ClientAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cerdem\\.nuget\\packages\\identitymodel\\6.0.0\\identitymodel.6.0.0.nupkg.sha512",
+    "C:\\Users\\cerdem\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\cerdem\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\cerdem\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\cerdem\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\cerdem\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\cerdem\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{97C1F87B-F8D0-4220-A669-64ECC1DE1C88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roof.API", "Roof.API\Roof.API.csproj", "{11152A34-09E3-4C53-99E0-99CC6D98C401}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roof.AuthGuardServer", "Roof.AuthGuardServer\Roof.AuthGuardServer.csproj", "{982A37D8-BCA4-4B76-B0B1-0511EA694A64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roof.ClientAPI", "Roof.ClientAPI\Roof.ClientAPI.csproj", "{B3BEC101-76FF-43E4-923E-AADFFAD64BA3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API", "API", "{A5C80941-799E-4DB1-AFC2-B1B206609CC0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AuthGuardServer", "AuthGuardServer", "{DF455DD2-F656-438E-99CC-3AED89A6484B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Client", "Client", "{C6BA470F-8E6B-4F97-BCB5-F903577844B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11152A34-09E3-4C53-99E0-99CC6D98C401}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11152A34-09E3-4C53-99E0-99CC6D98C401}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11152A34-09E3-4C53-99E0-99CC6D98C401}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11152A34-09E3-4C53-99E0-99CC6D98C401}.Release|Any CPU.Build.0 = Release|Any CPU
+		{982A37D8-BCA4-4B76-B0B1-0511EA694A64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{982A37D8-BCA4-4B76-B0B1-0511EA694A64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{982A37D8-BCA4-4B76-B0B1-0511EA694A64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{982A37D8-BCA4-4B76-B0B1-0511EA694A64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3BEC101-76FF-43E4-923E-AADFFAD64BA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3BEC101-76FF-43E4-923E-AADFFAD64BA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3BEC101-76FF-43E4-923E-AADFFAD64BA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3BEC101-76FF-43E4-923E-AADFFAD64BA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A5C80941-799E-4DB1-AFC2-B1B206609CC0} = {97C1F87B-F8D0-4220-A669-64ECC1DE1C88}
+		{11152A34-09E3-4C53-99E0-99CC6D98C401} = {A5C80941-799E-4DB1-AFC2-B1B206609CC0}
+		{DF455DD2-F656-438E-99CC-3AED89A6484B} = {97C1F87B-F8D0-4220-A669-64ECC1DE1C88}
+		{982A37D8-BCA4-4B76-B0B1-0511EA694A64} = {DF455DD2-F656-438E-99CC-3AED89A6484B}
+		{C6BA470F-8E6B-4F97-BCB5-F903577844B4} = {97C1F87B-F8D0-4220-A669-64ECC1DE1C88}
+		{B3BEC101-76FF-43E4-923E-AADFFAD64BA3} = {C6BA470F-8E6B-4F97-BCB5-F903577844B4}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF3EB712-16C8-4BC6-9D4F-82DB21F9A545}
+	EndGlobalSection
+EndGlobal
